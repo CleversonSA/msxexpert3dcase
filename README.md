@@ -15,6 +15,15 @@ de criar um case impresso em 3D inspirado no Commander X16 do The 8-Bit Guy’s 
 - Amplificador estéreo 3W
 - Dois auto falantes 40mm 3W 4ohms
 
+# Os arquivos croqui
+
+No repositório, existem alguns arquivos contendo a palavra *croqui* no nome. São STLs que moldei baseado nos objetos reais, dentro do Thinkercad, para poder modar a ajuste e furação no case.
+
+Então os disponibilizei para quem quiser em outros projetos e planejar, já no 3D, onde irá cada objeto. 
+
+Atente-se que as medidas tem uma precisão de 80%, podendo variar um pouco quando colocado no mundo real. Por isso, deixo sempre uma margenzinha para erro nas furações.
+
+
 # Impressão
 
 Utilizo a Ender 3 v1 que tem área de impressão máxima de 200mm x 200mm. Neste caso, divido o STL em 4 partes iguais. Uso o Ultimaker Cura para realizar o fatiamento e impressão.
